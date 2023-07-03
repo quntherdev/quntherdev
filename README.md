@@ -1,6 +1,6 @@
-👋 I’m @quntherdev, a 20yo web/mobile/desktop developer ! Based in France 🇫🇷, which is also the country where I'm studying IT. I'm passionnated about making SaaS, and other useful applications for the people !
+### 👋 I’m @quntherdev, a 20yo web/mobile/desktop developer ! Based in France 🇫🇷, which is also the country where I'm studying IT. I'm passionnated about making SaaS, and other useful applications for the people !
 
-📫 Would be a pleasure to talk with you on Discord on anything about IT and business! My discord tag is : qunther
+### 📫 Would be a pleasure to talk with you on Discord on anything about IT and business! My discord tag is : qunther
 
 ---------------------
 
